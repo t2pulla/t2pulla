@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tony
-- 👀 I’m interested in perl/python/sql
+-   Hi, I’m Tony Retired HPE 1983-2023
+- last role was L3 support of L2 and FC embedded switches 
 - 🌱 I’m currently learning django
-- 💞️ Currently I am just setting up my first reposistory 
+- 💞️ Perl cli scripts for random tasks
 - 📫 How to reach me ... t2.pulla@gmail.com
 
 <!---
